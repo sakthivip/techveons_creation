@@ -1492,7 +1492,17 @@ function sendMsg() {
         method: "POST",
         body: formData
     })
-    .then(res => res.json())
+    .then(async res => {
+        const text = await res.text();
+        if (!res.ok) {
+            throw new Error(text || `HTTP ${res.status}`);
+        }
+        try {
+            return JSON.parse(text);
+        } catch (parseError) {
+            throw new Error('Invalid JSON response: ' + text);
+        }
+    })
     .then(data => {
         if(data.message === "success"){
             showToast("Message sent successfully  ");
