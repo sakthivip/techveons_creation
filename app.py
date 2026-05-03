@@ -4,6 +4,7 @@ from email.mime.text import MIMEText
 import os
 
 app = Flask(__name__)
+CORS(app)
 HTML_FILE = os.path.join(os.path.dirname(__file__), 'techveons (4).html')
 
 @app.route('/', defaults={'path': ''})
