@@ -889,17 +889,17 @@ textarea.finput{resize:vertical;min-height:140px;}
 
     <div class="reveal" style="transition-delay:0.6s;display:grid;grid-template-columns:repeat(3,1fr);gap:20px;margin-top:20px;">
       <div class="gcard" style="text-align:center;padding:28px 16px;">
-        <div style="font-size:1.6rem;margin-bottom:10px;"><¯</div>
+        <div style="font-size:1.6rem;margin-bottom:10px;"><ï¿½</div>
         <div style="font-family:var(--font-royal);font-size:0.95rem;color:var(--gold1);margin-bottom:8px;font-weight:700;letter-spacing:2px;">VISION</div>
         <div style="font-family:var(--font-body);font-style:italic;color:var(--gray);font-size:0.9rem;">Engineering the future of digital presence</div>
       </div>
       <div class="gcard" style="text-align:center;padding:28px 16px;">
-        <div style="font-size:1.6rem;margin-bottom:10px;">¡</div>
+        <div style="font-size:1.6rem;margin-bottom:10px;">ï¿½</div>
         <div style="font-family:var(--font-royal);font-size:0.95rem;color:var(--gold1);margin-bottom:8px;font-weight:700;letter-spacing:2px;">MISSION</div>
         <div style="font-family:var(--font-body);font-style:italic;color:var(--gray);font-size:0.9rem;">Turning ideas into impactful realities</div>
       </div>
       <div class="gcard" style="text-align:center;padding:28px 16px;">
-        <div style="font-size:1.6rem;margin-bottom:10px;"><Æ</div>
+        <div style="font-size:1.6rem;margin-bottom:10px;"><ï¿½</div>
         <div style="font-family:var(--font-royal);font-size:0.95rem;color:var(--gold1);margin-bottom:8px;font-weight:700;letter-spacing:2px;">VALUES</div>
         <div style="font-family:var(--font-body);font-style:italic;color:var(--gray);font-size:0.9rem;">Perfection, creativity, client obsession</div>
       </div>
@@ -915,7 +915,7 @@ textarea.finput{resize:vertical;min-height:140px;}
 <section id="services">
   <div class="sec-header">
     <span class="sec-label reveal">End-to-End Solutions</span>
-    <h2 class="sec-title reveal" style="transition-delay:0.1s;">What We Bring to the Table =€</h2>
+    <h2 class="sec-title reveal" style="transition-delay:0.1s;">What We Bring to the Table =ï¿½</h2>
     <div class="ornament reveal" style="transition-delay:0.2s;">
       <div class="ornament-line"></div>
       <div class="ornament-small"></div>
@@ -980,7 +980,7 @@ textarea.finput{resize:vertical;min-height:140px;}
   </div>
 
   <div class="cta-banner reveal" onclick="document.getElementById('contact').scrollIntoView({behavior:'smooth'})">
-    <span class="cta-txt">Ready to dominate your market? Let's build something epic &nbsp;’</span>
+    <span class="cta-txt">Ready to dominate your market? Let's build something epic &nbsp;ï¿½</span>
   </div>
 </section>
 
@@ -1079,7 +1079,7 @@ textarea.finput{resize:vertical;min-height:140px;}
         <div class="lname">Rishva</div>
         <div class="lrole">Founder &amp; CEO</div>
         <div class="lbio">"The Architect of Ideas. Transforming complex problems into seamless digital journeys."</div>
-        <div class="l-link-tag">View Portfolio ’</div>
+        <div class="l-link-tag">View Portfolio ï¿½</div>
       </a>
     </div>
 
@@ -1092,7 +1092,7 @@ textarea.finput{resize:vertical;min-height:140px;}
         <div class="lname">Gurudharanitharan</div>
         <div class="lrole">Co-Founder &amp; CTO</div>
         <div class="lbio">"The Tech Alchemist. Ensuring every line of code is robust, scalable, and future-proof."</div>
-        <div class="l-link-tag">View Portfolio ’</div>
+        <div class="l-link-tag">View Portfolio ï¿½</div>
       </a>
     </div>
 
@@ -1217,7 +1217,7 @@ textarea.finput{resize:vertical;min-height:140px;}
     <!-- Starter -->
     <div class="reveal gcard" style="padding:40px 32px;text-align:center;transition-delay:0s;position:relative;">
       <div style="font-family:var(--font-label);font-size:0.65rem;letter-spacing:4px;color:var(--gold4);margin-bottom:12px;">STARTER</div>
-      <div style="font-family:var(--font-royal);font-size:2.8rem;font-weight:900;background:var(--gold-grad);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;font-family:'Cinzel Decorative',serif;">¹2,999</div>
+      <div style="font-family:var(--font-royal);font-size:2.8rem;font-weight:900;background:var(--gold-grad);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;font-family:'Cinzel Decorative',serif;">ï¿½2,999</div>
       <div style="font-family:var(--font-label);color:var(--gray);font-size:0.72rem;letter-spacing:2px;margin-bottom:28px;">/ project</div>
       <div style="font-family:var(--font-body);font-style:italic;color:var(--gold2);font-size:1rem;margin-bottom:24px;font-weight:700;">Perfect for Startups</div>
       <ul style="list-style:none;text-align:left;margin-bottom:32px;">
@@ -1234,7 +1234,7 @@ textarea.finput{resize:vertical;min-height:140px;}
     <div class="reveal gcard" style="padding:40px 32px;text-align:center;transition-delay:0.1s;position:relative;border-color:var(--gold1);box-shadow:0 0 40px rgba(255,215,0,0.18);">
       <div style="position:absolute;top:-14px;left:50%;transform:translateX(-50%);background:var(--gold-grad);color:#000;font-family:var(--font-label);font-size:0.62rem;letter-spacing:3px;padding:4px 20px;border-radius:20px;font-weight:700;">MOST POPULAR</div>
       <div style="font-family:var(--font-label);font-size:0.65rem;letter-spacing:4px;color:var(--gold4);margin-bottom:12px;">GROWTH</div>
-      <div style="font-family:'Cinzel Decorative',serif;font-size:2.8rem;font-weight:900;background:var(--gold-grad);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;">¹7,999</div>
+      <div style="font-family:'Cinzel Decorative',serif;font-size:2.8rem;font-weight:900;background:var(--gold-grad);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;">ï¿½7,999</div>
       <div style="font-family:var(--font-label);color:var(--gray);font-size:0.72rem;letter-spacing:2px;margin-bottom:28px;">/ month</div>
       <div style="font-family:var(--font-body);font-style:italic;color:var(--gold2);font-size:1rem;margin-bottom:24px;font-weight:700;">For Growing Brands</div>
       <ul style="list-style:none;text-align:left;margin-bottom:32px;">
@@ -1251,7 +1251,7 @@ textarea.finput{resize:vertical;min-height:140px;}
     <!-- Elite -->
     <div class="reveal gcard" style="padding:40px 32px;text-align:center;transition-delay:0.2s;position:relative;">
       <div style="font-family:var(--font-label);font-size:0.65rem;letter-spacing:4px;color:var(--gold4);margin-bottom:12px;">ELITE</div>
-      <div style="font-family:'Cinzel Decorative',serif;font-size:2.8rem;font-weight:900;background:var(--gold-grad);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;">¹19,999</div>
+      <div style="font-family:'Cinzel Decorative',serif;font-size:2.8rem;font-weight:900;background:var(--gold-grad);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;">ï¿½19,999</div>
       <div style="font-family:var(--font-label);color:var(--gray);font-size:0.72rem;letter-spacing:2px;margin-bottom:28px;">/ month</div>
       <div style="font-family:var(--font-body);font-style:italic;color:var(--gold2);font-size:1rem;margin-bottom:24px;font-weight:700;">For Established Businesses</div>
       <ul style="list-style:none;text-align:left;margin-bottom:32px;">
@@ -1268,16 +1268,16 @@ textarea.finput{resize:vertical;min-height:140px;}
 
   <!-- Add-on pricing table -->
   <div style="max-width:1100px;margin:60px auto 0;" class="reveal">
-    <h3 style="font-family:var(--font-royal);font-size:1.5rem;background:var(--gold-grad);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;text-align:center;margin-bottom:32px;letter-spacing:2px;">À La Carte Services</h3>
+    <h3 style="font-family:var(--font-royal);font-size:1.5rem;background:var(--gold-grad);-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;text-align:center;margin-bottom:32px;letter-spacing:2px;">ï¿½ La Carte Services</h3>
     <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;">
-      <div class="gcard" style="padding:24px;text-align:center;"><div style="font-family:'Cinzel Decorative',serif;color:var(--gold1);font-size:1.3rem;margin-bottom:6px;">¹499</div><div style="font-family:var(--font-label);font-size:0.68rem;letter-spacing:2px;color:var(--gray);">Single Poster Design</div></div>
-      <div class="gcard" style="padding:24px;text-align:center;"><div style="font-family:'Cinzel Decorative',serif;color:var(--gold1);font-size:1.3rem;margin-bottom:6px;">¹799</div><div style="font-family:var(--font-label);font-size:0.68rem;letter-spacing:2px;color:var(--gray);">Reel / Short Video Edit</div></div>
-      <div class="gcard" style="padding:24px;text-align:center;"><div style="font-family:'Cinzel Decorative',serif;color:var(--gold1);font-size:1.3rem;margin-bottom:6px;">¹1,499</div><div style="font-family:var(--font-label);font-size:0.68rem;letter-spacing:2px;color:var(--gray);">Logo + Brand Kit</div></div>
-      <div class="gcard" style="padding:24px;text-align:center;"><div style="font-family:'Cinzel Decorative',serif;color:var(--gold1);font-size:1.3rem;margin-bottom:6px;">¹1,999</div><div style="font-family:var(--font-label);font-size:0.68rem;letter-spacing:2px;color:var(--gray);">Script + Content Writing</div></div>
-      <div class="gcard" style="padding:24px;text-align:center;"><div style="font-family:'Cinzel Decorative',serif;color:var(--gold1);font-size:1.3rem;margin-bottom:6px;">¹2,999</div><div style="font-family:var(--font-label);font-size:0.68rem;letter-spacing:2px;color:var(--gray);">AI Chatbot Setup</div></div>
-      <div class="gcard" style="padding:24px;text-align:center;"><div style="font-family:'Cinzel Decorative',serif;color:var(--gold1);font-size:1.3rem;margin-bottom:6px;">¹4,999</div><div style="font-family:var(--font-label);font-size:0.68rem;letter-spacing:2px;color:var(--gray);">E-Commerce Store Setup</div></div>
-      <div class="gcard" style="padding:24px;text-align:center;"><div style="font-family:'Cinzel Decorative',serif;color:var(--gold1);font-size:1.3rem;margin-bottom:6px;">¹999</div><div style="font-family:var(--font-label);font-size:0.68rem;letter-spacing:2px;color:var(--gray);">SEO Audit + Report</div></div>
-      <div class="gcard" style="padding:24px;text-align:center;"><div style="font-family:'Cinzel Decorative',serif;color:var(--gold1);font-size:1.3rem;margin-bottom:6px;">¹1,299</div><div style="font-family:var(--font-label);font-size:0.68rem;letter-spacing:2px;color:var(--gray);">Social Media Profile Setup</div></div>
+      <div class="gcard" style="padding:24px;text-align:center;"><div style="font-family:'Cinzel Decorative',serif;color:var(--gold1);font-size:1.3rem;margin-bottom:6px;">ï¿½499</div><div style="font-family:var(--font-label);font-size:0.68rem;letter-spacing:2px;color:var(--gray);">Single Poster Design</div></div>
+      <div class="gcard" style="padding:24px;text-align:center;"><div style="font-family:'Cinzel Decorative',serif;color:var(--gold1);font-size:1.3rem;margin-bottom:6px;">ï¿½799</div><div style="font-family:var(--font-label);font-size:0.68rem;letter-spacing:2px;color:var(--gray);">Reel / Short Video Edit</div></div>
+      <div class="gcard" style="padding:24px;text-align:center;"><div style="font-family:'Cinzel Decorative',serif;color:var(--gold1);font-size:1.3rem;margin-bottom:6px;">ï¿½1,499</div><div style="font-family:var(--font-label);font-size:0.68rem;letter-spacing:2px;color:var(--gray);">Logo + Brand Kit</div></div>
+      <div class="gcard" style="padding:24px;text-align:center;"><div style="font-family:'Cinzel Decorative',serif;color:var(--gold1);font-size:1.3rem;margin-bottom:6px;">ï¿½1,999</div><div style="font-family:var(--font-label);font-size:0.68rem;letter-spacing:2px;color:var(--gray);">Script + Content Writing</div></div>
+      <div class="gcard" style="padding:24px;text-align:center;"><div style="font-family:'Cinzel Decorative',serif;color:var(--gold1);font-size:1.3rem;margin-bottom:6px;">ï¿½2,999</div><div style="font-family:var(--font-label);font-size:0.68rem;letter-spacing:2px;color:var(--gray);">AI Chatbot Setup</div></div>
+      <div class="gcard" style="padding:24px;text-align:center;"><div style="font-family:'Cinzel Decorative',serif;color:var(--gold1);font-size:1.3rem;margin-bottom:6px;">ï¿½4,999</div><div style="font-family:var(--font-label);font-size:0.68rem;letter-spacing:2px;color:var(--gray);">E-Commerce Store Setup</div></div>
+      <div class="gcard" style="padding:24px;text-align:center;"><div style="font-family:'Cinzel Decorative',serif;color:var(--gold1);font-size:1.3rem;margin-bottom:6px;">ï¿½999</div><div style="font-family:var(--font-label);font-size:0.68rem;letter-spacing:2px;color:var(--gray);">SEO Audit + Report</div></div>
+      <div class="gcard" style="padding:24px;text-align:center;"><div style="font-family:'Cinzel Decorative',serif;color:var(--gold1);font-size:1.3rem;margin-bottom:6px;">ï¿½1,299</div><div style="font-family:var(--font-label);font-size:0.68rem;letter-spacing:2px;color:var(--gray);">Social Media Profile Setup</div></div>
     </div>
   </div>
 
@@ -1290,7 +1290,7 @@ textarea.finput{resize:vertical;min-height:140px;}
   </div>
 
   <div class="cta-banner reveal" onclick="document.getElementById('contact').scrollIntoView({behavior:'smooth'})" style="max-width:1100px;margin-top:24px;">
-    <span class="cta-txt">Need a custom quote? Let's talk about your project &nbsp;’</span>
+    <span class="cta-txt">Need a custom quote? Let's talk about your project &nbsp;ï¿½</span>
   </div>
 </section>
 
@@ -1345,7 +1345,7 @@ textarea.finput{resize:vertical;min-height:140px;}
     <div class="reveal gcard" style="padding:0;overflow:hidden;transition-delay:0.12s;cursor:pointer;">
       <div style="height:170px;background:linear-gradient(135deg,#1a0a1a,#2d0030);display:flex;align-items:center;justify-content:center;position:relative;overflow:hidden;">
         <div style="position:absolute;inset:0;background:radial-gradient(circle at 50% 50%,rgba(244,114,182,0.12),transparent)"></div>
-        <svg viewBox="0 0 80 80" width="60" height="60"><text x="40" y="50" font-size="36" text-anchor="middle"><¨</text></svg>
+        <svg viewBox="0 0 80 80" width="60" height="60"><text x="40" y="50" font-size="36" text-anchor="middle"><ï¿½</text></svg>
       </div>
       <div style="padding:24px;">
         <div style="font-family:var(--font-label);font-size:0.6rem;letter-spacing:3px;color:#f472b6;margin-bottom:10px;">BRANDING</div>
@@ -1359,7 +1359,7 @@ textarea.finput{resize:vertical;min-height:140px;}
     <div class="reveal gcard" style="padding:0;overflow:hidden;transition-delay:0.18s;cursor:pointer;">
       <div style="height:170px;background:linear-gradient(135deg,#1a1400,#2d2200);display:flex;align-items:center;justify-content:center;position:relative;overflow:hidden;">
         <div style="position:absolute;inset:0;background:radial-gradient(circle at 50% 50%,rgba(251,191,36,0.12),transparent)"></div>
-        <svg viewBox="0 0 80 80" width="60" height="60"><text x="40" y="50" font-size="36" text-anchor="middle">=È</text></svg>
+        <svg viewBox="0 0 80 80" width="60" height="60"><text x="40" y="50" font-size="36" text-anchor="middle">=ï¿½</text></svg>
       </div>
       <div style="padding:24px;">
         <div style="font-family:var(--font-label);font-size:0.6rem;letter-spacing:3px;color:#fbbf24;margin-bottom:10px;">MARKETING</div>
@@ -1373,7 +1373,7 @@ textarea.finput{resize:vertical;min-height:140px;}
     <div class="reveal gcard" style="padding:0;overflow:hidden;transition-delay:0.24s;cursor:pointer;">
       <div style="height:170px;background:linear-gradient(135deg,#001020,#001835);display:flex;align-items:center;justify-content:center;position:relative;overflow:hidden;">
         <div style="position:absolute;inset:0;background:radial-gradient(circle at 50% 50%,rgba(56,189,248,0.1),transparent)"></div>
-        <svg viewBox="0 0 80 80" width="60" height="60"><text x="40" y="50" font-size="36" text-anchor="middle"><¬</text></svg>
+        <svg viewBox="0 0 80 80" width="60" height="60"><text x="40" y="50" font-size="36" text-anchor="middle"><ï¿½</text></svg>
       </div>
       <div style="padding:24px;">
         <div style="font-family:var(--font-label);font-size:0.6rem;letter-spacing:3px;color:#38bdf8;margin-bottom:10px;">VIDEO</div>
@@ -1387,7 +1387,7 @@ textarea.finput{resize:vertical;min-height:140px;}
     <div class="reveal gcard" style="padding:0;overflow:hidden;transition-delay:0.30s;cursor:pointer;">
       <div style="height:170px;background:linear-gradient(135deg,#0a1520,#102030);display:flex;align-items:center;justify-content:center;position:relative;overflow:hidden;">
         <div style="position:absolute;inset:0;background:radial-gradient(circle at 50% 50%,rgba(148,163,184,0.1),transparent)"></div>
-        <svg viewBox="0 0 80 80" width="60" height="60"><text x="40" y="50" font-size="36" text-anchor="middle">=÷</text></svg>
+        <svg viewBox="0 0 80 80" width="60" height="60"><text x="40" y="50" font-size="36" text-anchor="middle">=ï¿½</text></svg>
       </div>
       <div style="padding:24px;">
         <div style="font-family:var(--font-label);font-size:0.6rem;letter-spacing:3px;color:#94a3b8;margin-bottom:10px;">PHOTOGRAPHY</div>
@@ -1426,7 +1426,7 @@ textarea.finput{resize:vertical;min-height:140px;}
         <div class="cicon"><svg viewBox="0 0 24 24" fill="currentColor" width="20" height="20"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/></svg></div>
         <div>
           <div class="clabel">Location</div>
-          <div class="cval">Tirupur · Madurai · Trichy<br><span style="color:var(--gray);font-size:0.9rem;font-family:var(--font-label);letter-spacing:1px;">Tamil Nadu &nbsp;&nbsp; Serving Globally</span></div>
+          <div class="cval">Tirupur ï¿½ Madurai ï¿½ Trichy<br><span style="color:var(--gray);font-size:0.9rem;font-family:var(--font-label);letter-spacing:1px;">Tamil Nadu &nbsp;&nbsp; Serving Globally</span></div>
         </div>
       </div>
       <div class="citem">
@@ -1467,7 +1467,7 @@ textarea.finput{resize:vertical;min-height:140px;}
       <input type="tel" id="cp" class="finput" placeholder="+91 XXXXX XXXXX">
       <label class="flabel">Your Message</label>
       <textarea id="cm" class="finput" placeholder="Tell us about your project..."></textarea>
-      <button class="sbtn" id="sbtn" onclick="sendMsg()">Send Message —</button>
+      <button class="sbtn" id="sbtn" onclick="sendMsg()">Send Message ï¿½</button>
     </div>
   </div>
 </section>
@@ -1486,7 +1486,7 @@ function sendMsg() {
     formData.append("phone", p);
     formData.append("message", m);
 
-    fetch("/send", {
+    fetch(" https://techveons-creation-2-hagk.onrender.com/send", {
         method: "POST",
         body: formData
     })
@@ -1508,7 +1508,7 @@ function sendMsg() {
     })
     .finally(() => {
         document.getElementById('sbtn').disabled = false;
-        document.getElementById('sbtn').textContent = 'Send Message —';
+        document.getElementById('sbtn').textContent = 'Send Message ï¿½';
     });
 }
 </script>
@@ -1518,7 +1518,7 @@ function sendMsg() {
      ZPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP] -->
 <footer>
   <div class="footer-brand">TECHVEONS</div>
-  <div class="footer-tag">Creation &nbsp;·&nbsp; Innovation &nbsp;·&nbsp; Excellence</div>
+  <div class="footer-tag">Creation &nbsp;ï¿½&nbsp; Innovation &nbsp;ï¿½&nbsp; Excellence</div>
   <div class="social-row" style="justify-content:center;margin-bottom:28px;">
     <a href="https://www.instagram.com/techveons_.offx._/" target="_blank" class="si"><svg viewBox="0 0 24 24" fill="currentColor" width="18" height="18"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zM12 0C8.741 0 8.333.014 7.053.072 2.695.272.273 2.69.073 7.052.014 8.333 0 8.741 0 12c0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98C8.333 23.986 8.741 24 12 24c3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98C15.668.014 15.259 0 12 0zm0 5.838a6.162 6.162 0 100 12.324 6.162 6.162 0 000-12.324zM12 16a4 4 0 110-8 4 4 0 010 8zm6.406-11.845a1.44 1.44 0 100 2.881 1.44 1.44 0 000-2.881z"/></svg></a>
     <a href="https://wa.me/918270532283" target="_blank" class="si"><svg viewBox="0 0 24 24" fill="currentColor" width="18" height="18"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg></a>
@@ -1528,7 +1528,7 @@ function sendMsg() {
     <a href="https://www.linkedin.com/feed/" target="_blank" class="si"><svg viewBox="0 0 24 24" fill="currentColor" width="18" height="18"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433a2.062 2.062 0 01-2.063-2.065 2.064 2.064 0 112.063 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg></a>
     <a href="https://github.com/" target="_blank" class="si"><svg viewBox="0 0 24 24" fill="currentColor" width="18" height="18"><path d="M12 .297c-6.63 0-12 5.373-12 12 0 5.303 3.438 9.8 8.205 11.385.6.113.82-.258.82-.577 0-.285-.01-1.04-.015-2.04-3.338.724-4.042-1.61-4.042-1.61C4.422 18.07 3.633 17.7 3.633 17.7c-1.087-.744.084-.729.084-.729 1.205.084 1.838 1.236 1.838 1.236 1.07 1.835 2.809 1.305 3.495.998.108-.776.417-1.305.76-1.605-2.665-.3-5.466-1.332-5.466-5.93 0-1.31.465-2.38 1.235-3.22-.135-.303-.54-1.523.105-3.176 0 0 1.005-.322 3.3 1.23.96-.267 1.98-.399 3-.405 1.02.006 2.04.138 3 .405 2.28-1.552 3.285-1.23 3.285-1.23.645 1.653.24 2.873.12 3.176.765.84 1.23 1.91 1.23 3.22 0 4.61-2.805 5.625-5.475 5.92.42.36.81 1.096.81 2.22 0 1.606-.015 2.896-.015 3.286 0 .315.21.69.825.57C20.565 22.092 24 17.592 24 12.297c0-6.627-5.373-12-12-12"/></svg></a>
   </div>
-  <div class="footer-copy">© 2026 <span>TechVeons</span> Creation. All Rights Reserved.</div>
+  <div class="footer-copy">ï¿½ 2026 <span>TechVeons</span> Creation. All Rights Reserved.</div>
 </footer>
 
 <div class="toast" id="toast"></div>
