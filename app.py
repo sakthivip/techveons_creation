@@ -1,4 +1,5 @@
 from flask import Flask, request, jsonify, send_file
+from flask_cors import CORS
 import smtplib
 from email.mime.text import MIMEText
 import os
