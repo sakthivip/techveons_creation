@@ -35,7 +35,7 @@ Message: {message}
 
         server = smtplib.SMTP('smtp.gmail.com', 587)
         server.starttls()
-        server.login("techveons.creation.official@gmail.com", "jcvm wmxx txqx efqo")
+        server.login("techveons.creation.official@gmail.com", "dpdc mjji mdvi ivxl")
 
         server.send_message(msg)
         server.quit()

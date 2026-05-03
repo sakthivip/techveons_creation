@@ -1488,7 +1488,7 @@ function sendMsg() {
     formData.append("phone", p);
     formData.append("message", m);
 
-    fetch(" https://techveons-creation-1-x6mv.onrender.com/send", {
+    fetch("/send", {
         method: "POST",
         body: formData
     })
