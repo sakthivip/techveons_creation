@@ -1482,15 +1482,19 @@ function sendMsg() {
     const p = document.getElementById("cp").value;
     const m = document.getElementById("cm").value;
 
-    const formData = new FormData();
-    formData.append("name", n);
-    formData.append("email", e);
-    formData.append("phone", p);
-    formData.append("message", m);
+    const payload = {
+        name: n,
+        email: e,
+        phone: p,
+        message: m
+    };
 
-    fetch(" https://techveons-creation-2-hagk.onrender.com/send", {
+    fetch("/send", {
         method: "POST",
-        body: formData
+        headers: {
+          "Content-Type": "application/json"
+        },
+        body: JSON.stringify(payload)
     })
     .then(async res => {
         const text = await res.text();

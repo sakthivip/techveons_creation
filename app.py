@@ -23,17 +23,15 @@ def home(path):
 
 @app.route('/send', methods=['POST'])
 def send():
-    from flask import request
+    data = request.get_json(silent=True)
+    if data is None:
+        data = request.form
 
-    data = request.get_json()
-    if not data:
-        return "No data received", 400
-    msg = data.get("message", "")
     try:
-        name = request.form.get('name')
-        email = request.form.get('email')
-        phone = request.form.get('phone')
-        message = request.form.get('message')
+        name = data.get('name')
+        email = data.get('email')
+        phone = data.get('phone')
+        message = data.get('message')
 
         body = f"""
 Name: {name}
